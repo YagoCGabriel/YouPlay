@@ -8,7 +8,7 @@ CLI para buscar e assistir vídeos do YouTube via yt-dlp + player externo.
 
 - [Go 1.22+](https://go.dev/dl/)
 - [yt-dlp](https://github.com/yt-dlp/yt-dlp) no PATH
-- Um player: **mpv** (recomendado), vlc, potplayer etc.
+- Um player: **[mpv](https://mpv.io)** (recomendado), vlc, potplayer etc.
 
 ---
 
